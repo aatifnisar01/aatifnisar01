@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aatifnisar01
+- 👋 Hi, I’m Aatif Nisar Dar
 - 👀 I’m interested in ICTD, HCI, and Computer Vision.
 - 📫 How to reach me aatif.dar11@gmail.com
 
